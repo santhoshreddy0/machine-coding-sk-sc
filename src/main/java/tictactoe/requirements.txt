@@ -1,0 +1,17 @@
+--> Size of board N can vary
+--> no of players = N-1
+--> every player should have own symbol
+--> every player can select their symbol of unique
+--> Who plays first
+--> can game have bots?
+      bot difficulty : easy/med/hard
+--> How & when game would start?
+--> How game can end?
+    Winning Strategies
+--> Undo moves
+
+
+Classes::
+
+board, cell, symbol, player, move,   
+
